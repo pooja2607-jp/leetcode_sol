@@ -25,4 +25,12 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3310-remove-methods-from-project) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
