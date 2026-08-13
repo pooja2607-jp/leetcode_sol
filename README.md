@@ -6,6 +6,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0036-valid-sudoku) |
 | [1140-stone-game-ii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1140-stone-game-ii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
@@ -111,4 +113,12 @@
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
