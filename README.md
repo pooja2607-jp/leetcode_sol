@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0036-valid-sudoku) |
+| [0187-repeated-dna-sequences](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -47,6 +48,7 @@
 ## String
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -109,6 +111,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -124,4 +127,24 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
