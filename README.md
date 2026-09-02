@@ -18,6 +18,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
 | ------- |
