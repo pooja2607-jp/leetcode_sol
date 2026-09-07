@@ -6,6 +6,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0036-valid-sudoku) |
 | [0088-merge-sorted-array](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1386-cinema-seat-allocation) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1386-cinema-seat-allocation](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1386-cinema-seat-allocation) |
@@ -152,6 +154,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0169-majority-element) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
@@ -165,6 +168,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0169-majority-element) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Segment Tree
 |  |
@@ -205,6 +209,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Combinatorics
@@ -219,4 +224,8 @@
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
