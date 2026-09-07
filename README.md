@@ -29,6 +29,7 @@
 | [0169-majority-element](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1386-cinema-seat-allocation](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1927-sum-game](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -158,6 +160,7 @@
 | [0088-merge-sorted-array](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0242-valid-anagram) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
