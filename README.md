@@ -8,6 +8,7 @@
 | [0088-merge-sorted-array](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0217-contains-duplicate) |
 | [1140-stone-game-ii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1872-stone-game-viii) |
@@ -27,6 +28,7 @@
 | [0036-valid-sudoku](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0187-repeated-dna-sequences) |
+| [0217-contains-duplicate](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1386-cinema-seat-allocation](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -155,6 +157,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0217-contains-duplicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
