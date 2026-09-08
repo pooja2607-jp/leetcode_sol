@@ -10,6 +10,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [1140-stone-game-ii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1872-stone-game-viii) |
@@ -32,6 +33,7 @@
 | [0217-contains-duplicate](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1386-cinema-seat-allocation](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -111,6 +113,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
@@ -165,6 +168,7 @@
 | [0217-contains-duplicate](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
@@ -217,6 +221,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Counting
 |  |
