@@ -9,6 +9,7 @@
 | [0169-majority-element](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0268-missing-number) |
 | [1140-stone-game-ii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1872-stone-game-viii) |
@@ -30,6 +31,7 @@
 | [0187-repeated-dna-sequences](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0268-missing-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1386-cinema-seat-allocation](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -56,6 +58,7 @@
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0268-missing-number) |
 | [1140-stone-game-ii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1872-stone-game-viii) |
@@ -161,6 +164,7 @@
 | [0169-majority-element](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0268-missing-number) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
@@ -188,6 +192,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0187-repeated-dna-sequences) |
+| [0268-missing-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -211,6 +216,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0268-missing-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Counting
 |  |
