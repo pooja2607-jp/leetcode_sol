@@ -13,6 +13,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0455-assign-cookies) |
 | [1140-stone-game-ii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1872-stone-game-viii) |
@@ -102,6 +103,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2029-stone-game-ix) |
@@ -120,6 +122,7 @@
 | [0088-merge-sorted-array](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0455-assign-cookies) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
@@ -178,6 +181,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0455-assign-cookies) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
@@ -256,4 +260,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
