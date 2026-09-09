@@ -36,6 +36,7 @@
 | [0268-missing-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1386-cinema-seat-allocation](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -84,6 +85,7 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1927-sum-game](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -173,6 +175,7 @@
 | [0268-missing-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0389-find-the-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
@@ -201,6 +204,7 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
