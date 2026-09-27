@@ -86,6 +86,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0389-find-the-difference) |
@@ -122,6 +123,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0455-assign-cookies) |
