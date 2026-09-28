@@ -10,6 +10,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0268-missing-number) |
@@ -68,6 +69,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0268-missing-number) |
 | [1140-stone-game-ii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1510-stone-game-iv) |
@@ -131,6 +133,7 @@
 | [0088-merge-sorted-array](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0455-assign-cookies) |
