@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0036-valid-sudoku) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -106,6 +107,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1927-sum-game) |
@@ -122,6 +124,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0088-merge-sorted-array) |
