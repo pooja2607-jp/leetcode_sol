@@ -15,6 +15,7 @@
 | [0217-contains-duplicate](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0414-third-maximum-number) |
@@ -139,6 +140,7 @@
 | [0189-rotate-array](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0455-assign-cookies) |
@@ -229,6 +231,7 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -254,6 +257,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -287,4 +291,9 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
