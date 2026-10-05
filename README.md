@@ -102,6 +102,7 @@
 | [0344-reverse-string](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1927-sum-game](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pooja2607-jp/leetcode_sol/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -149,12 +150,14 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0455-assign-cookies) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/pooja2607-jp/leetcode_sol/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/pooja2607-jp/leetcode_sol/tree/master/0392-is-subsequence) |
 | [1140-stone-game-ii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/pooja2607-jp/leetcode_sol/tree/master/1872-stone-game-viii) |
